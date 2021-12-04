@@ -1,2 +1,2 @@
 # switch-panel
-8 switch panel for the my 2022 Nissan Frontier
+8 switchs panel for the my 2022 Nissan Frontier
